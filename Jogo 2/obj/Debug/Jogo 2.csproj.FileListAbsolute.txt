@@ -1,0 +1,10 @@
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\bin\Debug\Jogo 2.exe.config
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\bin\Debug\Jogo 2.exe
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\bin\Debug\Jogo 2.pdb
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\obj\Debug\Jogo 2.csprojAssemblyReference.cache
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\obj\Debug\Jogo_2.Form1.resources
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\obj\Debug\Jogo_2.Properties.Resources.resources
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\obj\Debug\Jogo 2.csproj.GenerateResource.cache
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\obj\Debug\Jogo 2.csproj.CoreCompileInputs.cache
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\obj\Debug\Jogo 2.exe
+C:\Users\Luis Duarte\source\repos\Jogo 2\Jogo 2\obj\Debug\Jogo 2.pdb
